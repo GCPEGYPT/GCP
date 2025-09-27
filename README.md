@@ -19,21 +19,29 @@ Nouran – Content Analyst 📊
 Global Cement Products (GCP) specializes in manufacturing and supplying cement-based products such as interlock pavers, cement bricks, curbstones, tiles, and road barriers.
 The project aims to provide integrated urban solutions distinguished by high quality, durability, and competitive pricing, in line with Egypt’s urban renaissance.
 
-🎯 Project Objectives: 
+🎯 Project Objectives
 
-> Increase Facebook followers from 779 to 5,000+ by November 2025.
-> Launch a website and blog with at least 5 educational articles.
-> Strengthen digital presence across Instagram, LinkedIn, and TikTok.
-> Showcase real product photos, factory visuals, and installation videos.
-> Generate new leads (B2B & B2C) and grow supply contracts.
+Increase Facebook followers from 779 to 5,000+ by November 2025.
 
-📂 Project Scope : 
+Launch a website and blog with at least 5 educational articles.
+
+Strengthen digital presence across Instagram, LinkedIn, and TikTok.
+
+Showcase real product photos, factory visuals, and installation videos.
+
+Generate new leads (B2B & B2C) and grow supply contracts.
+
+📂 Project Scope
 
 In Scope:
-1- Digital content production (photos, videos, reels, before/after).
-2- Social media management & campaigns.
-3- Website & blog development.
-4- Highlighting quality certifications and case studies.
+
+Digital content production (photos, videos, reels, before/after).
+
+Social media management & campaigns.
+
+Website & blog development.
+
+Highlighting quality certifications and case studies.
 
 🗓 Project Plan — 5 Weeks
 | Week  | Milestone                                                            |
