@@ -1,13 +1,19 @@
 presentation on canva : 
 https://www.canva.com/design/DAGxgPSxf5A/TqXrfsBz5muNdsroj6Ld-w/edit?utm_content=DAGxgPSxf5A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
-👥 Team Members : 
-1- Moamen – Videographer 🎥
-2- Yassmen – Content Writer ✍
-3- Qassem – Video Editor & Graphic Designer 🎬🎨
-4- Soha – Community Manager 👥
-5- Nour – Copywriter & Community Manager ✍👥
-6- Nouran – Content Analyst 📊
+👥 Team Members
+
+Moamen – Videographer 🎥
+
+Yassmen – Content Writer ✍
+
+Qassem – Video Editor & Graphic Designer 🎬🎨
+
+Soha – Community Manager 👥
+
+Nour – Copywriter & Community Manager ✍👥
+
+Nouran – Content Analyst 📊
 
 📌 Project Overview : 
 Global Cement Products (GCP) specializes in manufacturing and supplying cement-based products such as interlock pavers, cement bricks, curbstones, tiles, and road barriers.
